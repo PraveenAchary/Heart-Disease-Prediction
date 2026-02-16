@@ -60,7 +60,7 @@ export default function PredictDisease()
 
         try
         {
-            const res = await axios.post("https://heart-disease-prediction.onrender.com/api/predict/", data);   
+            const res = await axios.post("https://heart-disease-prediction.onrender.com/api/predict/", data);
             console.log(res.data);
             
             if(Number(res.data.Prediction) === 1)
