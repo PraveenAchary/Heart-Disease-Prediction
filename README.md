@@ -1,4 +1,10 @@
+
 ❤️ Heart Disease Prediction System
+
+🚀 Live Demo:  
+Frontend: https://heart-disease-prediction-iota-ten.vercel.app/  
+Backend API: https://heart-diseaase-prediction.onrender.com/api/predict/
+
 Full-Stack Machine Learning Web Application
 
 A production-style full-stack web application that predicts the likelihood of heart disease using clinical parameters. The system integrates a trained scikit-learn model with a React frontend and a Django REST Framework (DRF) backend, delivering real-time predictions with probability scores.
