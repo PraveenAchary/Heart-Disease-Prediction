@@ -1,6 +1,6 @@
 Django>=5.0
 djangorestframework==3.16.1
-numpy==1.26.0
+numpy==2.2.0
 scipy==1.12.1
 pandas>=2.1
 imbalanced-learn==0.14.1
@@ -8,5 +8,6 @@ joblib==1.5.2
 matplotlib==3.10.6
 nltk==3.9.2
 keras==3.9.2
+
 
 
