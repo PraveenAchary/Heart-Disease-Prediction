@@ -133,7 +133,7 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-CORS_ALLOWED_ORIGINS = [
-    "https://heart-disease-prediction-iota-ten.vercel.app",
-]
+# CORS_ALLOWED_ORIGINS = [
+#     "https://heart-disease-prediction-iota-ten.vercel.app",
+# ]
 
